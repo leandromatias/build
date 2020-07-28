@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = themes/hugo-future-imperfect-slim
+  url = https://github.com/leandromatias/build.git
